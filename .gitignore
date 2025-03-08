@@ -44,3 +44,7 @@ production/
 *.gtl
 *.gtp
 *.gto
+
+# LTspice
+*.raw
+*.log
