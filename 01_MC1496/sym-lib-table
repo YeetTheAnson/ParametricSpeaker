@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "00_ParametricSpeaker")(type "KiCad")(uri "${KIPRJMOD}/MC1496.kicad_sym")(options "")(descr ""))
+)
