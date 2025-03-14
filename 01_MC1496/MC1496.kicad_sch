@@ -2655,7 +2655,7 @@
     (property "Reference" "TP10" (at 107.95 86.868 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Vc_AC" (at 107.95 89.408 0)
+    (property "Value" "Vc" (at 107.95 89.408 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "TestPoint:TestPoint_THTPad_D2.5mm_Drill1.2mm" (at 110.49 91.44 0)
