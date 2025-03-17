@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "00_SpeakerArray")(type "KiCad")(uri "C:/Users/S-Iwata/Documents/Git/326_ParametricSpeaker/03_SpeakerArray")(options "")(descr ""))
+)
