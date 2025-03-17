@@ -1982,7 +1982,7 @@
     (property "Reference" "R14" (at 204.47 94.615 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "4.7k" (at 204.47 97.155 0)
+    (property "Value" "10k" (at 204.47 97.155 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 200.787 95.885 90)
